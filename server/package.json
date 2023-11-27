@@ -4,7 +4,8 @@
   "description": "chatbot built using MERN, Socekt.io and OpenAI",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm i"
   },
   "author": "Faizan Khan",
   "license": "ISC",
